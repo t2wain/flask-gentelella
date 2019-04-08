@@ -1,0 +1,5 @@
+bcrypt
+flask
+flask_login
+flask_migrate
+flask_wtf

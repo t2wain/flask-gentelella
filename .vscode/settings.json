@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\dev\\pyenv\\Scripts\\python.exe",
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4  
+      }
+}
